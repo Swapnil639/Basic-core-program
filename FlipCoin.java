@@ -33,6 +33,6 @@ public class FlipCoin {
         System.out.println("Percentage of Tails :"+tailpercent);
 
 
-    }
+   }
 
 }
